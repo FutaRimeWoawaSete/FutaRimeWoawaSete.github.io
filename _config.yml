@@ -2,23 +2,23 @@ title: FutaRimeWoawaSete's home # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   戒不掉的珂毒与分块<br/>
   哥特萝莉控<br/>
-  <a href="mailto:i@wu-kan.cn">
+  <a href="">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
+  <a href="">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
+  <a href="">
     <i class="fas fa-smile"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
+  <a href="">
     <i class="fab fa-zhihu"></i>
   </a>
   <iframe
-    src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
+    src=""
     width=100%
     height=52
     frameborder="no"
